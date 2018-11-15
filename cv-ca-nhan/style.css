@@ -1,0 +1,22 @@
+* {
+    margin: 2px;
+    padding: 0;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+div {
+    display: inline-block;
+    width: 26%;
+    height: 100px;
+    text-align: left;
+    padding-left: 30px;
+}
+
+h2, h3, h4 {
+    display: inline-block;
+}
